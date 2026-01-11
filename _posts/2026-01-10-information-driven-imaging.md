@@ -5,8 +5,8 @@ date:               2026-01-10  09:00:00
 author:             <a href="https://henrypinkard.github.io/">Henry Pinkard</a>, <a href="https://Lakabuli.github.io/">Leyla Kabuli</a>, <a href="https://emarkley.github.io/">Eric Markley</a>, Tiffany Chien, <a href="https://people.eecs.berkeley.edu/~jiantao/">Jiantao Jiao</a>, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html">Laura Waller</a>
 img:                /assets/information-driven-imaging/applications_figure.png
 excerpt_separator:  <!--more-->
-visible:            False
-show_comments:      False
+visible:            True
+show_comments:      True
 ---
 
 <!--
