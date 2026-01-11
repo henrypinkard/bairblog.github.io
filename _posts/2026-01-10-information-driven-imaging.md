@@ -2,8 +2,8 @@
 layout:             post
 title:              "Information-Driven Design of Imaging Systems"
 date:               2026-01-10  09:00:00
-author:             <a href="https://henrypinkard.github.io/">Henry Pinkard</a>, <a href="https://Lakabuli.github.io/">Leyla Kabuli</a>, <a href="https://emarkley.github.io/">Eric Markley</a>, Tiffany Chien, <a href="https://people.eecs.berkeley.edu/~jiantao/">Jiantao Jiao</a>, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html">Laura Waller</a>
-img:                /assets/information-driven-imaging/applications_figure.png
+author:             <a href="https://henrypinkard.github.io/">Henry Pinkard</a>, <a href="https://Lakabuli.github.io/">Leyla Kabuli</a>, <a href="https://emarkley.github.io/">Eric Markley</a>, Tiffany Chien, <a href="https://people.eecs.berkeley.edu/~jiantao/">Jiantao Jiao</a>, <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html">Laura Waller</a><br>
+img:                /assets/information-driven-imaging/info_estimation_overview.png
 excerpt_separator:  <!--more-->
 visible:            True
 show_comments:      True
@@ -26,7 +26,7 @@ you know the exact URL.
 <!-- twitter -->
 <meta name="twitter:title" content="Measuring What Matters: Information-Driven Design of Imaging Systems">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="/assets/information-driven-imaging/applications_figure.png">
+<meta name="twitter:image" content="/assets/information-driven-imaging/info_estimation_overview.png">
 
 <meta name="keywords" content="information theory, computational imaging, optical design, imaging systems, machine learning, optimization">
 <meta name="description" content="The BAIR Blog">
